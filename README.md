@@ -56,7 +56,7 @@ Think of this site as a **cyber lab with style**: sleek animations, hacker-inspi
 - **Performance Optimized** → Built to load faster than a brute-force attempt.  
 - **Accessible** → Screen readers, keyboard navigation, all welcome.
 
-Live at == https://jerry.is-a.dev
+Live at == https://0xjerry.is-a.dev
 
 ---
 
