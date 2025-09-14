@@ -54,7 +54,9 @@ Think of this site as a **cyber lab with style**: sleek animations, hacker-inspi
 - **Immersive Animations** → Everything reacts, glows, or floats.  
 - **Security First** → Centered on ethical hacking & security R&D.  
 - **Performance Optimized** → Built to load faster than a brute-force attempt.  
-- **Accessible** → Screen readers, keyboard navigation, all welcome.  
+- **Accessible** → Screen readers, keyboard navigation, all welcome.
+
+Live at == https://jerry.is-a.dev
 
 ---
 
