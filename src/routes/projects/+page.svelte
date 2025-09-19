@@ -17,7 +17,7 @@ let filterType = 'all';
 const projects = [
     {
   "id": 1,
-  "title": "Hack The Box Play CTF",
+  "title": "HackTheBox Play CTF",
   "category": "Capture The Flag",
   "url": "https://github.com/Jery0843/HackTheBox/tree/main/Play_CTF-2025",
   "duration": "Ongoing",
