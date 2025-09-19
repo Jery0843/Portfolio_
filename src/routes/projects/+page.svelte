@@ -496,7 +496,7 @@ onMount(() => {
     <section class="stats-section" in:fly={{ y: 50, duration: 800, delay: 800, easing: cubicOut }}>
         <div class="stats-container">
             <div class="stat-card">
-                <div class="stat-number">5</div>
+                <div class="stat-number">6</div>
                 <div class="stat-label">Projects</div>
             </div>
             <div class="stat-divider"></div>
@@ -506,7 +506,7 @@ onMount(() => {
             </div>
             <div class="stat-divider"></div>
             <div class="stat-card">
-                <div class="stat-number">20+</div>
+                <div class="stat-number">25+</div>
                 <div class="stat-label">Technologies</div>
             </div>
         </div>
