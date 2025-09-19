@@ -22,7 +22,7 @@ const projects = [
   "url": "https://github.com/Jery0843/HackTheBox/tree/main/Play_CTF-2025",
   "duration": "Ongoing",
   "affiliation": "Hack The Box (Participant)",
-  "color": "#00ff80",
+  "color":  "#ff4500",
   "icon": "🏆",
   "difficulty": "Advanced",
   "status": "Active",
