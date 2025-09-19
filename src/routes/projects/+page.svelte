@@ -16,7 +16,50 @@ let filterType = 'all';
 
 const projects = [
     {
-        id: 1,
+  "id": 1,
+  "title": "Hack The Box Play CTF",
+  "category": "Capture The Flag",
+  "url": "https://github.com/Jery0843/HackTheBox/tree/main/Play_CTF-2025",
+  "duration": "Ongoing",
+  "affiliation": "Hack The Box (Participant)",
+  "color": "#ff4500",
+  "icon": "🏆",
+  "difficulty": "Advanced",
+  "status": "Active",
+  "overview": "Active competitor in Hack The Box Play CTF events and continuous challenge practice. Work spans web exploitation, binary pwn, reverse engineering, crypto, forensics, OSINT and infrastructure/hardening tasks. Focus on rapid triage, exploit development, tool automation, and producing clear write-ups for learning and portfolio.",
+  "technologies": [
+    "Kali Linux",
+    "Burp Suite",
+    "Nmap",
+    "Wireshark",
+    "Metasploit",
+    "Ghidra",
+    "Radare2",
+    "IDA Pro",
+    "pwntools",
+    "John / Hashcat",
+    "Python",
+    "Bash",
+    "Docker"
+  ],
+  "achievements": [
+    "Solved diverse challenges across Web, Pwn, Crypto, Forensics, and OSINT categories (2024–2025)",
+    "Developed and automated exploitation tooling and reconnaissance scripts in Python",
+    "Authored detailed public write-ups documenting approach, techniques, and mitigations",
+    "Coordinated team strategy during live CTFs — task allocation, scoring prioritization and post-mortem analysis"
+  ],
+  "skills": [
+    "Offensive security (web, binary exploitation, crypto)",
+    "Reverse engineering & static/dynamic analysis",
+    "Network & forensic analysis",
+    "OSINT and information discovery",
+    "Exploit development & scripting",
+    "CTF teamwork, task triage and post-mortem documentation"
+  ],
+  "impact": "Significantly improved practical offensive and defensive security skills through hands-on CTF challenges; strengthened ability to rapidly triage, exploit, and document vulnerabilities while collaborating with a team under time pressure. Produced portfolio-grade write-ups and reusable tooling that accelerated future engagements."
+},
+    {
+        id: 2,
         title: "HackTheBox & TryHackMe Labs",
         category: "Penetration Testing",
         url: "https://htb-writeup.hashnode.dev/",
@@ -38,7 +81,7 @@ const projects = [
         impact: "Strengthened offensive security skills through real-world inspired challenges, developing expertise in vulnerability discovery and exploitation."
     },
     {
-        id: 2,
+        id: 3,
         title: "CloudSEK CTF",
         category: "Capture The Flag",
         url: "https://cloudsek-ctf-report.hashnode.dev/cloudsek-hiring-ctf-august-2025-report-and-insights",
@@ -60,7 +103,7 @@ const projects = [
         impact: "Demonstrated advanced penetration testing skills by chaining vulnerabilities to achieve privileged access, while providing detailed remediation strategies."
     },
     {
-        id: 3,
+        id: 4,
         title: "SecureHive",
         category: "Cybersecurity Tool",
         url: "https://securehive.securenotepad.tech/",
@@ -82,7 +125,7 @@ const projects = [
         impact: "Created enterprise-grade encryption tool that bridges technical complexity with intuitive design, providing robust data security for end users."
     },
     {
-        id: 4,
+        id: 5,
         title: "Patient No-Show Predictor",
         category: "Machine Learning",
         url: "https://ijnrd.org/viewpaperforall.php?paper=IJNRD2403501",
@@ -104,7 +147,7 @@ const projects = [
         impact: "Enabled healthcare providers to reduce no-show rates and enhance operational efficiency through predictive analytics and strategic resource allocation."
     },
     {
-        id: 5,
+        id: 6,
         title: "Kali Secure Notepad",
         category: "Security Application",
         url: "https://securenotepad.tech/",
