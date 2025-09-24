@@ -159,12 +159,26 @@ const certificates = [
   "date": "Sep 2025",
   "category": "Cybersecurity",
   "level": "Beginner",
-  "color": "#4caf50",
+  "color": "#ff6b00",
   "icon": "🛡️",
-  "link": "https://learn.eccouncil.org/certificate/b2e51562-ecab-4bcc-b9c3-6ff5a308cf3e",
+  "link": "https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-C0GNTVCOQ9.pdf",
   "skills": ["Cybersecurity Fundamentals", "Networking Basics", "Information Security"],
   "description": "Completed the Pre Security learning path covering essential cybersecurity concepts. Course duration: 7 hours 38 minutes."
+},
+{
+  "id": 22,
+  "title": "Open Source Intelligence",
+  "organization": "EC-Council",
+  "date": "Sep 2025",
+  "category": "Cybersecurity",
+  "level": "Intermediate",
+  "color": "#d32f2f",
+  "icon": "🔎",
+  "link": "https://learn.eccouncil.org/certificate/b2e51562-ecab-4bcc-b9c3-6ff5a308cf3e",
+  "skills": ["OSINT", "Information Gathering", "Cybersecurity Research"],
+  "description": "Successfully completed the Open Source Intelligence course by EC-Council Continuing Education. Course duration: 4 hours. Certificate Number: 438262."
 }
+
 ];
 
 // Function to parse date string and create a sortable date
