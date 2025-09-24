@@ -152,6 +152,19 @@ const certificates = [
     { id: 18, title: "Ethical Hacking-Mobile Platforms and Network Architecture", organization: "Great Learning", date: "Dec 2022", category: "Ethical Hacking", level: "Intermediate", color: "#ff0080", icon: "📱", link: "https://olympus.mygreatlearning.com/courses/12761/certificate", skills: ["Mobile Security", "Network Architecture", "Penetration Testing"], description: "Mobile platform security and network architecture analysis" },
     { id: 19, title: "Python Course on Multiple Languages", organization: "CODE IIT Madras", date: "Dec 2022", category: "Programming", level: "Intermediate", color: "#ffff00", icon: "🐍", link: "https://drive.google.com/file/d/1HBqr8xKv-vwfPKTjHO9K0jZi1wYD4b2K/view", skills: ["Python", "Multi-language Programming", "Software Development"], description: "Comprehensive Python programming with multi-language integration" },
     { id: 20, title: "Learn Ethical Hacking From Scratch", organization: "Udemy", date: "Nov 2022", category: "Ethical Hacking", level: "Beginner", color: "#ff0080", icon: "🔓", link: "https://www.udemy.com/certificate/ethical-hacking-scratch-2022", skills: ["Ethical Hacking", "Security Testing", "Vulnerability Assessment"], description: "Complete beginner's guide to ethical hacking and penetration testing" }
+    {
+  "id": 21,
+  "title": "Pre Security",
+  "organization": "TryHackMe",
+  "date": "Sep 2025",
+  "category": "Cybersecurity",
+  "level": "Beginner",
+  "color": "#4caf50",
+  "icon": "🛡️",
+  "link": "https://learn.eccouncil.org/certificate/b2e51562-ecab-4bcc-b9c3-6ff5a308cf3e",
+  "skills": ["Cybersecurity Fundamentals", "Networking Basics", "Information Security"],
+  "description": "Completed the Pre Security learning path covering essential cybersecurity concepts. Course duration: 7 hours 38 minutes."
+}
 ];
 
 // Function to parse date string and create a sortable date
