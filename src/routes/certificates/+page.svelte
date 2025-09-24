@@ -172,7 +172,7 @@ const certificates = [
   "date": "Sep 2025",
   "category": "Ethical Hacking",
   "level": "Intermediate",
-  "color": "#ff0080",
+  "color": "#ff8c00",
   "icon": "🔎",
   "link": "https://learn.eccouncil.org/certificate/b2e51562-ecab-4bcc-b9c3-6ff5a308cf3e",
   "skills": ["OSINT", "Information Gathering", "Cybersecurity Research"],
