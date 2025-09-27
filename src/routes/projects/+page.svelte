@@ -20,22 +20,13 @@ const projects = [
   "title": "Holmes CTF 2025",
   "category": "Capture The Flag",
   "url": "https://pub-113bc69380eb4f6a984dc329fbd14c58.r2.dev/Certificate-0xJerry.pdf",
-  "duration": "22 Sep 2025 - 26 Sep 2025",
+  "duration": "Sep 2025 ",
   "affiliation": "Holmes CTF (Individual Participant)",
   "color": "#6a0dad",
   "icon": "🏅",
   "difficulty": "Advanced",
   "status": "Completed",
-  "overview": "Participated individually in Holmes CTF 2025 (22–26 Sep 2025). Solved 46 out of 65 challenges across web exploitation, reverse engineering, cryptography and forensics. Focused on rapid triage, exploit development, automation of tooling, and producing clear write-ups for learning and portfolio.",
-  "statistics": {
-    "username": "Jerome Andrew K",
-    "team_name": "Secure-Hive",
-    "team_ranking": "774th",
-    "total_teams": 7085,
-    "solved_challenges": "46/65",
-    "total_points": 5100
-  },
-  "certificate_file": "Certificate-0xJerry.pdf",
+  "overview": "Participated individually in Holmes CTF 2025 (22–26 Sep 2025). Solved 46 out of 65 challenges across web exploitation, reverse engineering, cryptography, and forensics. Focused on rapid triage, exploit development, automation of tooling, and producing clear write-ups for learning and portfolio.",
   "technologies": [
     "Kali Linux",
     "Burp Suite",
@@ -48,7 +39,22 @@ const projects = [
     "Python",
     "Bash",
     "Docker"
-  ]
+  ],
+  "achievements": [
+    "Solved 46 out of 65 challenges across Web, Crypto, Reversing, and Forensics categories",
+    "Ranked 774th out of 7,085 teams with a total score of 5,100 points",
+    "Individually represented team 'Secure-Hive' and maintained consistent performance",
+    "Produced structured notes and write-ups to document techniques and approaches"
+  ],
+  "skills": [
+    "Exploit development and tooling automation",
+    "Reverse engineering & binary analysis",
+    "Applied cryptography and forensic investigation",
+    "Web exploitation and network analysis",
+    "Rapid triage under time-constrained competition",
+    "Self-driven participation and knowledge documentation"
+  ],
+  "impact": "Enhanced hands-on offensive security capabilities by solving real-world styled CTF challenges. Strengthened individual problem-solving, rapid exploit prototyping, and forensic analysis skills. The experience contributed reusable notes and methodologies to improve efficiency in future competitions."
 },
     {
   "id": 2,
