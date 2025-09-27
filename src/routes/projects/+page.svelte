@@ -20,7 +20,7 @@ const projects = [
   "title": "Holmes CTF 2025",
   "category": "Capture The Flag",
   "url": "https://pub-113bc69380eb4f6a984dc329fbd14c58.r2.dev/Certificate-0xJerry.pdf",
-  "duration": "22/09/2025 - 26/09/2025",
+  "duration": "22 Sep 2025 - 26 Sep 2025",
   "affiliation": "Holmes CTF (Individual Participant)",
   "color": "#6a0dad",
   "icon": "🏅",
