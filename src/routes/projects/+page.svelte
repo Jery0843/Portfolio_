@@ -15,8 +15,43 @@ let mouseY = 0;
 let filterType = 'all';
 
 const projects = [
-    {
+     {
   "id": 1,
+  "title": "Holmes CTF 2025",
+  "category": "Capture The Flag",
+  "url": "https://pub-113bc69380eb4f6a984dc329fbd14c58.r2.dev/Certificate-0xJerry.pdf",
+  "duration": "22/09/2025 - 26/09/2025",
+  "affiliation": "Holmes CTF (Individual Participant)",
+  "color": "#6a0dad",
+  "icon": "🏅",
+  "difficulty": "Advanced",
+  "status": "Completed",
+  "overview": "Participated individually in Holmes CTF 2025 (22–26 Sep 2025). Solved 46 out of 65 challenges across web exploitation, reverse engineering, cryptography and forensics. Focused on rapid triage, exploit development, automation of tooling, and producing clear write-ups for learning and portfolio.",
+  "statistics": {
+    "username": "Jerome Andrew K",
+    "team_name": "Secure-Hive",
+    "team_ranking": "774th",
+    "total_teams": 7085,
+    "solved_challenges": "46/65",
+    "total_points": 5100
+  },
+  "certificate_file": "Certificate-0xJerry.pdf",
+  "technologies": [
+    "Kali Linux",
+    "Burp Suite",
+    "Nmap",
+    "Wireshark",
+    "Ghidra",
+    "Radare2",
+    "pwntools",
+    "John / Hashcat",
+    "Python",
+    "Bash",
+    "Docker"
+  ]
+},
+    {
+  "id": 2,
   "title": "HackTheBox Play CTF",
   "category": "Capture The Flag",
   "url": "https://github.com/Jery0843/HackTheBox/tree/main/Play_CTF-2025",
@@ -59,7 +94,7 @@ const projects = [
   "impact": "Significantly improved practical offensive and defensive security skills through hands-on CTF challenges; strengthened ability to rapidly triage, exploit, and document vulnerabilities while collaborating with a team under time pressure. Produced portfolio-grade write-ups and reusable tooling that accelerated future engagements."
 },
     {
-        id: 2,
+        id: 3,
         title: "HackTheBox & TryHackMe Labs",
         category: "Penetration Testing",
         url: "https://htb-writeup.hashnode.dev/",
@@ -81,7 +116,7 @@ const projects = [
         impact: "Strengthened offensive security skills through real-world inspired challenges, developing expertise in vulnerability discovery and exploitation."
     },
     {
-        id: 3,
+        id: 4,
         title: "CloudSEK CTF",
         category: "Capture The Flag",
         url: "https://cloudsek-ctf-report.hashnode.dev/cloudsek-hiring-ctf-august-2025-report-and-insights",
@@ -103,7 +138,7 @@ const projects = [
         impact: "Demonstrated advanced penetration testing skills by chaining vulnerabilities to achieve privileged access, while providing detailed remediation strategies."
     },
     {
-        id: 4,
+        id: 5,
         title: "SecureHive",
         category: "Cybersecurity Tool",
         url: "https://securehive.securenotepad.tech/",
@@ -125,7 +160,7 @@ const projects = [
         impact: "Created enterprise-grade encryption tool that bridges technical complexity with intuitive design, providing robust data security for end users."
     },
     {
-        id: 5,
+        id: 6,
         title: "Patient No-Show Predictor",
         category: "Machine Learning",
         url: "https://ijnrd.org/viewpaperforall.php?paper=IJNRD2403501",
@@ -147,7 +182,7 @@ const projects = [
         impact: "Enabled healthcare providers to reduce no-show rates and enhance operational efficiency through predictive analytics and strategic resource allocation."
     },
     {
-        id: 6,
+        id: 7,
         title: "Kali Secure Notepad",
         category: "Security Application",
         url: "https://securenotepad.tech/",
@@ -496,7 +531,7 @@ onMount(() => {
     <section class="stats-section" in:fly={{ y: 50, duration: 800, delay: 800, easing: cubicOut }}>
         <div class="stats-container">
             <div class="stat-card">
-                <div class="stat-number">6</div>
+                <div class="stat-number">7</div>
                 <div class="stat-label">Projects</div>
             </div>
             <div class="stat-divider"></div>
